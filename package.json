@@ -1,0 +1,22 @@
+{
+  "name": "findinganagram",
+  "version": "1.0.0",
+  "description": "This is a program and test cased for checking anagram",
+  "main": "findAnagram.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjahmed-wd/findAnagram.git"
+  },
+  "author": "Jubair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjahmed-wd/findAnagram/issues"
+  },
+  "homepage": "https://github.com/mjahmed-wd/findAnagram#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
